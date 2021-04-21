@@ -1,7 +1,6 @@
 # 69doggy.xyz
 DOGGY is a 100% decentralized community experiment with it claims that the LP tokens have been sent Binance Address Router.
 
-/**********************************************************************************************************************************
  *              __ __ __    __ __ __ _          ________       _________    ________     _________      __ *     _                *
  *             |   _____|  |  _____  |         |  ____  \     |        |   |   ____|     |   ____|     |  \    /  /               *
  *    ____     |  |        |  |____| |         |  |   \  \    |   __   |   |  |          |  |           \  \__/  /      _____     *
@@ -12,5 +11,5 @@ DOGGY is a 100% decentralized community experiment with it claims that the LP to
  *                                                                                                                                *
  *                                             CAN YOU PUSH ME BECOME TOP 50 MARKETCAP ?                                          *
  *                                                   - BUILD FOR COMMUNITY FAMILY -                                               *                          *
- **********************************************************************************************************************************/
+
  
